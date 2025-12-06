@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Rohan-Chandekar/Rohan-Chandekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full Stack Developer** specializing in building scalable web applications and conversational AI solutions.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend & Backend**
+- MERN Stack (MongoDB, Express.js, React, Node.js)
+- Strong expertise in Node.js
+
+**Cloud & DevOps**
+- Oracle Cloud Infrastructure (OCI)
+- Docker
+- Git
+
+**Current Focus**
+- Oracle Digital Assistant Development
+- Conversational AI & Chatbot Solutions
+
+## 💼 What I Do
+
+I bridge the gap between traditional web development and modern cloud-based conversational interfaces. My work involves creating robust backend systems, intuitive frontends, and intelligent digital assistants that enhance user experiences.
+
+## 🌱 Always Learning
+
+Constantly exploring new technologies and best practices in full stack development, cloud architecture, and AI-powered solutions.
+
+## 📫 Let's Connect
+
+Feel free to reach out for collaborations or just a chat about tech!
+
+---
+
+*"Building the future, one commit at a time."*
