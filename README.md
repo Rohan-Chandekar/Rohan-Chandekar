@@ -1,6 +1,6 @@
 # Hi there I am Rohan Chandekar👋
 
-I'm a **Full Stack Developer** specializing in building scalable web applications and conversational AI solutions.
+I'm a **Full Stack Developer** and **Gen AI / Agentic AI Engineer** specializing in building scalable web applications and intelligent conversational AI solutions.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rohan-Chandekar&style=flat-square&color=00D9FF">
@@ -19,9 +19,16 @@ I'm a **Full Stack Developer** specializing in building scalable web application
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%234169e1.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-%23000000.svg?style=flat-square&logo=fastapi&logoColor=white)
 
+**Gen AI & Agentic AI**
+<br /><br />
+![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-%231C3C3C.svg?style=flat-square&logo=langgraph&logoColor=white)
+![OpenAI](https://img.shields.io/badge/Generative_AI-%23412991.svg?style=flat-square&logo=openai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-%236A5ACD.svg?style=flat-square&logo=robotframework&logoColor=white)
 
 **Cloud & DevOps**
 <br /><br />
@@ -31,16 +38,18 @@ I'm a **Full Stack Developer** specializing in building scalable web application
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 
 **Current Focus**
+- Building Agentic AI systems using LangChain & LangGraph
 - Oracle Digital Assistant Development
 - Conversational AI & Chatbot Solutions
+- Generative AI application development in Python
 
 ## 💼 What I Do
 
-I bridge the gap between traditional web development and modern cloud-based conversational interfaces. My work involves creating robust backend systems, intuitive frontends, and intelligent digital assistants that enhance user experiences.
+I bridge the gap between traditional web development and modern AI-driven systems. My work involves creating robust backend systems, intuitive frontends, and intelligent agentic applications — from digital assistants to multi-step LLM-powered agents — that enhance user experiences and automate real-world workflows.
 
 ## 🌱 Always Learning
 
-Constantly exploring new technologies and best practices in full stack development, cloud architecture, and AI-powered solutions.
+Constantly exploring new technologies and best practices in full stack development, cloud architecture, and Generative & Agentic AI solutions, including LangChain, LangGraph, and multi-agent orchestration.
 
 ## 📫 Let's Connect
 
