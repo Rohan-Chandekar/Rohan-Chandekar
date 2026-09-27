@@ -22,11 +22,13 @@ I'm a **Full Stack Developer** and **Gen AI / Agentic AI Engineer** specializing
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%234169e1.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-%23000000.svg?style=flat-square&logo=fastapi&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
 
 **Gen AI & Agentic AI**
 <br /><br />
-![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-%231C3C3C.svg?style=flat-square&logo=langgraph&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/Generative_AI-%23412991.svg?style=flat-square&logo=openai&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-%236A5ACD.svg?style=flat-square&logo=robotframework&logoColor=white)
 
